@@ -1,2 +1,0 @@
-# Tabungan_yuditstudio
-websitetabungan
